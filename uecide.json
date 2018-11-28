@@ -3,7 +3,7 @@
     "provides": "Arduino Low Power.h",
     "description": "Power save primitives features for SAMD and nRF52 32bit boards",
     "version": "1.2.0",
-    "maintainer": "Arduino LLC",
+    "maintainer": "Arduino LLC <arduino@arduino.cc>",
     "category": "System",
     "subcategory": "Power",
     "family": [
