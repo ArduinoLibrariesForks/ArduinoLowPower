@@ -1,6 +1,6 @@
 {
-    "name": "Arduino Low Power",
-    "provides": "Arduino Low Power.h",
+    "name": "ArduinoLowPower",
+    "provides": "ArduinoLowPower.h",
     "description": "Power save primitives features for SAMD and nRF52 32bit boards",
     "version": "1.2.0",
     "maintainer": "Arduino LLC <arduino@arduino.cc>",
