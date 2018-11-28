@@ -6,8 +6,14 @@
     "maintainer": "Arduino LLC",
     "category": "System",
     "subcategory": "Power",
-    "family": "arm-sam",
-    "core": "arduino-sam",
+    "family": [
+        "arm-samd",
+        "nrf52"
+    ],
+    "core": [
+        "arduino-samd",
+        "nrf52"
+    ],
     "install": {
         "examples": "/",
         "keywords.txt": "/",
