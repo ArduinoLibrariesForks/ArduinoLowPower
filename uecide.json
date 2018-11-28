@@ -1,0 +1,18 @@
+{
+    "name": "Arduino Low Power",
+    "provides": "Arduino Low Power.h",
+    "description": "Power save primitives features for SAMD and nRF52 32bit boards",
+    "version": "1.2.0",
+    "maintainer": "Arduino LLC",
+    "category": "System",
+    "subcategory": "Power",
+    "family": "arm-sam",
+    "core": "arduino-sam",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "license": "LICENSE"
+}
